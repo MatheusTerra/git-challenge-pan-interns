@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Guilherme
+=======
+
+Lucas Willian Ramos Silva
+Amanda
+>>>>>>> master
